@@ -1,7 +1,48 @@
-### Hi there 👋🏼
+```typescript
+interface Workplace {
+  company: string;
+  position: string;
+}
 
-- 💻 &nbsp; I'm a 24 y.o. full stack developer.
-- 👀 &nbsp; Interested on JavaScript based technologies.
-- 📫 &nbsp; Email me at itsnesky@icloud.com for any inquiries.
-- 🔍 &nbsp; [Stack Overflow](https://es.stackoverflow.com/users/133789/itsnesky).
-- 🌐 &nbsp; Visit my [LinkedIn](https://www.linkedin.com/in/ffabiosilva/).
+interface User {
+  name: string;
+  age: number;
+  country: string;
+  workplace: Workplace;
+}
+
+class About {
+  public getData(): User {
+    return {
+      name: 'Fabio Silva',
+      age: 24,
+      country: 'Portugal',
+      workplace: this.getCurrentWorkplace(),
+    };
+  }
+
+  public getCurrentWorkplace(): Workplace {
+    return {
+      company: 'Zapp-Studio',
+      position: 'Full Stack Developer',
+    };
+  }
+
+  public getSkills(): string[] {
+    return [
+      'TypeScript',
+      'Vue.js',
+      'Nuxt.js',
+      'Vuetify',
+      'Bootstrap',
+      'Node.js',
+      'NestJS',
+      'Docker',
+    ];
+  }
+
+  public getFutureGoal(): string {
+    return 'Contribute to open source projects';
+  }
+}
+```
