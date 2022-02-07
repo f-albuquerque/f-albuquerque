@@ -11,7 +11,7 @@ interface User {
   workplace: Workplace;
 }
 
-class About extends Me {
+class AboutMe {
   public getData(): User {
     return {
       name: 'Fabio Silva',
