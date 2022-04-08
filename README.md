@@ -5,6 +5,7 @@ I'm Fabio Silva (@imfsilva), a 24 y.o. **full stack developer** interested on Ja
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Brave](https://img.shields.io/badge/-Brave-05122A?style=flat&logo=brave)
 
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier) ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)
