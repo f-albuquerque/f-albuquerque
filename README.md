@@ -2,7 +2,7 @@
 
 I'm Fabio Silva (@imfsilva), a 25 y.o. **full stack developer** interested on JavaScript based technologies. 
 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea) ![Insonmnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia) ![Brave](https://img.shields.io/badge/-Brave-05122A?style=flat&logo=brave)
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm) ![Insonmnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia) ![Brave](https://img.shields.io/badge/-Brave-05122A?style=flat&logo=brave)
 
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier) ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)
 
