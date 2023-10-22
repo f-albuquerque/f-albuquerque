@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-I'm Fabio Silva (@imfsilva), a 25 y.o. **full stack developer** interested on JavaScript based technologies. 
+I'm Fabio Silva (@imfsilva), a 26 y.o. **full stack developer** interested on JavaScript based technologies. 
 
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm) ![Insonmnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia) ![Brave](https://img.shields.io/badge/-Brave-05122A?style=flat&logo=brave)
 
