@@ -1,8 +1,8 @@
 ### Hi there 👋🏼
 
-I'm Fabio Silva (@imfsilva), a 26 y.o. **full stack developer** interested on JavaScript based technologies. 
+I'm Fabio Silva (@imfsilva), a 26-year-old **frontend developer** passionate about JavaScript-based technologies.
 
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm) ![Insonmnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia) ![Brave](https://img.shields.io/badge/-Brave-05122A?style=flat&logo=brave)
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Chrome](https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=google-chrome)
 
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier) ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)
 
@@ -17,4 +17,4 @@ I'm Fabio Silva (@imfsilva), a 26 y.o. **full stack developer** interested on Ja
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
