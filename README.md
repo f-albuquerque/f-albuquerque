@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-I'm Fabio Silva (@imfsilva), a 26-year-old **frontend developer** passionate about JavaScript-based technologies.
+I'm Fabio Silva (@imfsilva), a **frontend developer** passionate about JavaScript-based technologies.
 
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Chrome](https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=google-chrome)
 
